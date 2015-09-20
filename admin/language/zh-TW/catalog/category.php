@@ -5,12 +5,12 @@ $_['heading_title']              = '商品分類';
 // Text
 $_['text_success']               = '成功： 您已成功更新商品分類！';
 $_['text_list']              = '商品分類清單';
-$_['text_add']               = '添加商品分類';
+$_['text_add']               = '新增商品分類';
 $_['text_edit']              = '編輯商品分類';
-$_['text_default']               = '默認';
+$_['text_default']               = '預設';
 $_['text_image_manager']         = '圖片管理';
-$_['text_browse']                = '選擇圖像';
-$_['text_clear']                 = '清除圖像';
+$_['text_browse']                = '選擇圖片';
+$_['text_clear']                 = '清除圖片';
 
 // Column
 $_['column_name']                = '分類名稱';
@@ -20,13 +20,13 @@ $_['column_action']              = '編輯分類';
 // Entry
 $_['entry_name']                 = '分類名稱：';
 $_['entry_description']          = '分類描述：';
-$_['entry_meta_title'] 	     = 'Meta標籤標題：';
+$_['entry_meta_title'] 	         = 'Meta標籤標題：';
 $_['entry_meta_keyword']         = 'Meta標籤關鍵詞：';
 $_['entry_meta_description']     = 'Meta標籤描述：';
 $_['entry_keyword']              = 'SEO 關鍵字:';
 $_['entry_parent']               = '分類級別：';
 $_['entry_filter']               = '產品篩選：';
-$_['entry_store']                = '網店：';
+$_['entry_store']                = '商店：';
 $_['entry_image']                = '分類圖片：';
 $_['entry_top']                  = '橫排顯示：';
 $_['entry_column']               = '列排顯示：';
@@ -44,4 +44,4 @@ $_['help_column']            = '在頁面上方主目錄下的子目錄顯示時
 $_['error_warning']              = '警告： 相關數據未輸入！';
 $_['error_permission']           = '警告： 您沒有權限更改商品分類！';
 $_['error_name']                 = '分類名稱必須在3到32個字符之間！';
-$_['error_meta_title']       = 'Meta標題必須在3至255個字符之間！';
+$_['error_meta_title']           = 'Meta標題必須在3至255個字符之間！';

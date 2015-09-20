@@ -7,5 +7,5 @@ $_['column_order_id']   = '訂單號';
 $_['column_customer']   = '客戶名稱';
 $_['column_status']     = '狀態';
 $_['column_total']      = '金額';
-$_['column_date_added'] = '生成日期';
+$_['column_date_added'] = '新增日期';
 $_['column_action']     = '管理';

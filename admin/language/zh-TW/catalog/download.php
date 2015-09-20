@@ -5,13 +5,13 @@ $_['heading_title']    = '下載設置';
 // Text
 $_['text_success']     = '成功： 您已成功更新下載設置！';
 $_['text_list']         = '下載清單';
-$_['text_add']          = '添加下載';
+$_['text_add']          = '新增下載';
 $_['text_edit']         = '編輯下載';
 $_['text_upload']      = '文件已經成功上傳！';
 
 // Column
 $_['column_name']      = '下載名稱';
-$_['column_date_added'] = '添加日期';
+$_['column_date_added'] = '新增日期';
 $_['column_remaining'] = '剩餘下載次數';
 $_['column_action']    = '管理';
 
