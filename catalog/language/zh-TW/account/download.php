@@ -14,4 +14,4 @@ $_['column_name']       = '名字：';
 $_['text_remaining']  = '備註：';
 $_['column_size']       = '規格：';
 $_['text_download']   = '下載';
-$_['column_date_added'] = '添加日期';
+$_['column_date_added'] = '新增日期';

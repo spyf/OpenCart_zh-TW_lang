@@ -27,7 +27,7 @@ $_['entry_default']     = '默認地址：';
 
 // Error
 $_['error_delete']      = '警告： 您必須填寫至少一個地址！';
-$_['error_default']     = '警告： 您不能刪除您的默認地址！';
+$_['error_default']     = '警告： 您不能刪除您的預設地址！';
 $_['error_firstname']   = '姓氏必須在1到32字符之間！';
 $_['error_lastname']    = '名字必須在1到32字符之間！';
 $_['error_vat']         = '無效的增值稅號碼！';
