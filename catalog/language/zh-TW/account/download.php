@@ -3,7 +3,7 @@
 $_['heading_title']   = '下載商品';
 
 // Text
-$_['text_account']    = '我的帳戶';
+$_['text_account']    = '我的帳號';
 $_['text_downloads']  = '下載商品';
 $_['text_empty']      = '您沒有購買過可下載的商品！';
 $_['text_order']      = '訂單號：';

@@ -3,13 +3,13 @@
 $_['heading_title']     = '地址簿';
 
 // Text
-$_['text_account']      = '我的帳戶';
+$_['text_account']      = '我的帳號';
 $_['text_address_book'] = '地址簿';
 $_['text_edit_address'] = '您的個人資料';
 $_['text_add']       = '成功添加您的地址';
 $_['text_edit']       = '您的地址已更新';
 $_['text_delete']       = '您的地址已刪除';
-$_['text_empty']           = '您的帳戶沒有地址。';
+$_['text_empty']           = '您的帳號沒有地址。';
 
 // Entry
 $_['entry_firstname']   = '您的名字：';
@@ -23,7 +23,7 @@ $_['entry_postcode']    = '郵政編碼：';
 $_['entry_city']        = '所在市區：';
 $_['entry_country']     = '所在國家：';
 $_['entry_zone']        = '地區/省份：';
-$_['entry_default']     = '默認地址：';
+$_['entry_default']     = '預設地址：';
 
 // Error
 $_['error_delete']      = '警告： 您必須填寫至少一個地址！';

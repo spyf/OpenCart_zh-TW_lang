@@ -1,8 +1,8 @@
 <?php
 // Heading 
-$_['heading_title'] = '退出賬號';
+$_['heading_title'] = '登出帳號';
 
 // Text
-$_['text_message']  = '<p>您已成功退出了您的帳戶。 可以安全離開電腦了。</p>';
-$_['text_account']  = '賬號';
-$_['text_logout']   = '退出';
+$_['text_message']  = '<p>您已成功登出了您的帳號。 可以安全離開電腦了。</p>';
+$_['text_account']  = '帳號';
+$_['text_logout']   = '登出';
