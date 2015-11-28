@@ -3,13 +3,13 @@
 $_['heading_title']      = '商品退換';
 
 // Text
-$_['text_account']       = '帳戶';
+$_['text_account']       = '帳號';
 $_['text_return']        = '退換資料';
-$_['text_return_detail'] = '退換信息';
+$_['text_return_detail'] = '退換訊息';
 $_['text_description']   = '<p>請完整填寫下表，並獲取RMA號碼。</p>';
-$_['text_order']         = '訂單信息';
+$_['text_order']         = '訂單訊息';
 $_['text_product']       = '商品信息 &amp; 退換原因';
-$_['text_message']       = '<p>感謝您提交退換信息。 您的請求已經發送到相關部門處理。</p><p> 我們將通過郵件通知您相關退換安排。</p>';
+$_['text_message']       = '<p>感謝您提交退換信息。 您的請求已經發送到相關部門處理。</p><p> 我們將通過電子郵件通知您相關退換安排。</p>';
 $_['text_return_id']     = '退換號碼：';
 $_['text_order_id']      = '訂單號碼：';
 $_['text_date_ordered']  = '訂單日期：';
@@ -19,7 +19,7 @@ $_['text_comment']       = '退換備註';
 $_['text_history']       = '退換記錄';
 $_['text_empty']         = '您還沒有退換記錄。';
 $_['text_agree']         = '我已經閱讀並同意<a href="%s"  class="agree"><b>%s</b></a>條款。';
-$_['text_additional']    = '額外信息';
+$_['text_additional']    = '額外訊息';
 $_['text_products']      = '商品：';
 $_['text_customer']      = '會員：';
 
@@ -43,7 +43,7 @@ $_['entry_order_id']     = '訂單號：';
 $_['entry_date_ordered'] = '訂單日期：';
 $_['entry_firstname']    = '您的名字：';
 $_['entry_lastname']     = '您的姓氏：';
-$_['entry_email']        = '電子郵箱：';
+$_['entry_email']        = '電子信箱：';
 $_['entry_telephone']    = '電話：';
 $_['entry_product']      = '商品名稱：';
 $_['entry_model']        = '商品型號：';
@@ -58,7 +58,7 @@ $_['text_error']         = '找不到相關退換記錄。';
 $_['error_order_id']     = '請輸入訂單號。';
 $_['error_firstname']    = '名字必須在1到32字符之間。';
 $_['error_lastname']     = '姓氏必須在1到32字符之間。';
-$_['error_email']        = '無效的郵箱地址。';
+$_['error_email']        = '無效的電子信箱。';
 $_['error_telephone']    = '電話號碼必須為3到32字符。';
 $_['error_product']      = '請至少選擇一個商品。';
 $_['error_model']        = '商品名稱必須在3-64字符之間。';

@@ -3,8 +3,8 @@
 $_['heading_title']         = '訂單記錄';
 
 // Text
-$_['text_account']          = '我的帳戶';
-$_['text_order']            = '訂單信息';
+$_['text_account']          = '我的帳號';
+$_['text_order']            = '訂單訊息';
 $_['text_order_detail']     = '訂單詳細';
 $_['text_invoice_no']       = '發票號：';
 $_['text_order_id']         = '訂單號：';
