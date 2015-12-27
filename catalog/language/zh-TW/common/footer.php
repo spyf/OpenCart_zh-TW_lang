@@ -14,4 +14,4 @@ $_['text_account']      = '會員中心';
 $_['text_order']        = '歷史訂單';
 $_['text_wishlist']     = '收藏列表';
 $_['text_newsletter']   = '訂閱資訊';
-$_['text_powered']      = '技術支持 <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
+$_['text_powered']      = '技術支援 <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
