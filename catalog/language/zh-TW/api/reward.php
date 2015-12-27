@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']     = '成功：您的積分優惠已應用！';
+$_['text_success']     = '成功：您的積分優惠已使用！';
 
 // Error
 $_['error_permission'] = '警告：您沒有權限訪問該 API!';

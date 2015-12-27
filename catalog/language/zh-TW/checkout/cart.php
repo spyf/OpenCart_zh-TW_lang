@@ -1,6 +1,6 @@
 <?php
 
-// Heading  
+// Heading
 $_['heading_title']          = '購物車內的商品';
 
 // Text
@@ -37,7 +37,7 @@ $_['column_price']           = '單價';
 $_['column_total']           = '總計';
 // Error
 $_['error_stock']            = '商品標有 *** 表示數量不足或沒有存貨！';
-$_['error_minimum']          = '%s 最小起訂量是 %s！';	
-$_['error_required']         = '%s 要求！';	
-$_['error_product']          = '警告： 您的購物車內沒有商品！';	
+$_['error_minimum']          = '%s 最小起訂量是 %s！';
+$_['error_required']         = '%s 要求！';
+$_['error_product']          = '警告： 您的購物車內沒有商品！';
 $_['error_recurring_required'] = '請選擇付款方式！';
