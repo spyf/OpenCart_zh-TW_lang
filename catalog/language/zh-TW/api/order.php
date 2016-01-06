@@ -4,7 +4,7 @@ $_['text_success']           = '您的訂單已成功修改訂單';
 
 // Error
 $_['error_permission']       = '警告：您沒有權限訪問該API!';
-$_['error_customer']         = '客戶的詳細信息需要設定！';
+$_['error_customer']         = '客戶的詳細訊息需要設定！';
 $_['error_payment_address']  = '付款地址必選！';
 $_['error_payment_method']   = '付款方式必選！';
 $_['error_shipping_address'] = '配送地址必選！';

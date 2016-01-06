@@ -15,8 +15,8 @@ $_['text_modify']                    = '更新 &raquo;';
 $_['text_new_customer']              = '新客戶';
 $_['text_returning_customer']        = '註冊用戶';
 $_['text_checkout']                  = '結帳選項：';
-$_['text_i_am_returning_customer']   = '我已註冊帳戶';
-$_['text_register']                  = '註冊帳戶';
+$_['text_i_am_returning_customer']   = '我已註冊帳號';
+$_['text_register']                  = '註冊帳號';
 $_['text_guest']                     = '直接結帳';
 $_['text_register_account']          = '註冊一個帳戶以便您更方便購物， 查看訂單狀態， 查看採購的歷史記錄， 和更多的管理項目。';
 $_['text_forgotten']                 = '忘了密碼';
@@ -25,7 +25,7 @@ $_['text_your_address']              = '我的地址';
 $_['text_your_password']             = '我的密碼';
 $_['text_agree']                     = '我已經閱讀並同意 <a href="%s" class="agree"><b>%s</b></a> 條款';
 $_['text_address_new']               = '新增一個新地址';
-$_['text_address_existing']          = '使用現存地址';
+$_['text_address_existing']          = '使用現有的地址';
 $_['text_shipping_method']           = '請選擇一個配送方式。';
 $_['text_payment_method']            = '請選擇一個付款方式。';
 $_['text_comments']                  = '新增訂單備註';
@@ -50,7 +50,7 @@ $_['column_price']                   = '價格';
 $_['column_total']                   = '合計';
 
 // Entry
-$_['entry_email_address']            = '郵件地址：';
+$_['entry_email_address']            = '電子信箱：';
 $_['entry_email']                    = 'E-Mail：';
 $_['entry_password']                 = '密碼：';
 $_['entry_confirm']                  = '確認密碼：';
@@ -75,9 +75,9 @@ $_['entry_tax_id']                   = '公司稅號:';
 
 // Error
 $_['error_warning']                  = '在結算時出現了問題！ 如果此問題繼續存在請使用其它付款方式或<a href="%s">聯絡我們</a>。';
-$_['error_login']                    = '警告： 郵件地址或是密碼不符。';
+$_['error_login']                    = '警告： 電子信箱或是密碼不符。';
 $_['error_approved']                 = '警告: 您的帳號還沒有通過審核！';
-$_['error_exists']                   = '警告： 該電子信箱已被註冊、請換一個電子郵箱！';
+$_['error_exists']                   = '警告： 該電子信箱已被註冊、請換一個電子信箱！';
 $_['error_firstname']                = '名字必須在1到32字符之間！';
 $_['error_lastname']                 = '姓氏必須在1到32字符之間！';
 $_['error_email']                    = '無效的電子信箱！';
@@ -92,9 +92,9 @@ $_['error_zone']                     = '請選擇地區/省份！';
 $_['error_agree']                    = '警告： 您未同意條款 %s！';
 $_['error_address']                  = '警告： 請選擇一個地址！';
 $_['error_shipping']                 = '警告： 請選擇一個貨運方式！';
-$_['error_no_shipping']              = '無可用貨運方式。 請<a href="%s">聯絡我們</a> 以獲取幫助！';
+$_['error_no_shipping']              = '無可用貨運方式。 請<a href="%s">聯絡我們</a> 以獲得幫助！';
 $_['error_payment']                  = '警告： 請選擇一個付款方式！';
-$_['error_no_payment']               = '警告： 無可用付款方式。 請<a href="%s">聯繫我們</a> 以獲取幫助！';
+$_['error_no_payment']               = '警告： 無可用付款方式。 請<a href="%s">聯繫我們</a> 以獲得幫助！';
 $_['error_custom_field']             = '%s 必填!';
 $_['error_minimum']                  = '%s 的最小起訂量是 %s！';
 

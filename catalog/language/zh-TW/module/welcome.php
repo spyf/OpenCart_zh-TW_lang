@@ -1,3 +1,3 @@
 <?php
-$_['heading_title'] = '歡迎訪問 %s';
+$_['heading_title'] = '歡迎光臨 %s';
 ?>

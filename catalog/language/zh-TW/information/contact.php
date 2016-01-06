@@ -11,13 +11,13 @@ $_['text_telephone'] = '電話';
 $_['text_fax']       = '傳真';
 $_['text_open']      = '商店營業時間';
 $_['text_comment']   = '附言';
-$_['text_success']   = '<p>你的信息已成功發送到店主！</p>';
-$_['text_email']     = '郵箱';
+$_['text_success']   = '<p>你的訊息已成功發送到店主！</p>';
+$_['text_email']     = '電子信箱';
 $_['text_message']   = '<p>您的查詢已發送！</p>';
 
 // Entry
 $_['entry_name']     = '您的姓名';
-$_['entry_email']    = '郵箱地址';
+$_['entry_email']    = '電子信箱';
 $_['entry_enquiry']  = '咨詢內容';
 $_['entry_captcha']  = '請輸入驗證碼';
 

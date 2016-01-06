@@ -1,4 +1,4 @@
 <?php
 // Heading
-$_['heading_title']  = '在線客服';
+$_['heading_title']  = '線上客服';
 ?>

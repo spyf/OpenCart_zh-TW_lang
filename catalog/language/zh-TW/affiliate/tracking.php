@@ -12,4 +12,4 @@ $_['entry_generator']  = '追蹤連結生成';
 $_['entry_link']       = '追蹤連結';
 
 // Help
-$_['help_generator']  = '鍵入您想連結產品的名稱';
+$_['help_generator']  = '輸入您想連結產品的名稱';

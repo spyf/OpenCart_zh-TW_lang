@@ -1,6 +1,6 @@
 <?php
 //Text
-$_['text_paid_amazon'] = '在亞馬遜支付';
+$_['text_paid_amazon'] = '亞馬遜支付';
 
 //Order totals
 $_['text_total_shipping'] = '配送方式';

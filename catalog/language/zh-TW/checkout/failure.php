@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = '未能付款！';
+$_['heading_title'] = '未能成功付款！';
 
 // Text
 $_['text_basket']   = '購物車';
